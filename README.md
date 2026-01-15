@@ -4,7 +4,9 @@ Rhacodex³ - IDEX 3D printer
 
 ## Overview
 Custom-built IDEX 300mm³ 3D printer
+
 Built with space saving in mind
+
 Still a prototype 
 
 <img width="786" height="804" alt="image" src="https://github.com/user-attachments/assets/e7ca872e-58ab-4c1f-a829-f5285cca7b5c" />
